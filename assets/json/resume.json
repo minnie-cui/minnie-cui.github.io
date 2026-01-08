@@ -1,200 +1,161 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Minnie Cui",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "minnie.cui@wisc.edu",
+    "phone": "",
+    "url": "https://minnie-cui.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1180 Observatory Dr",
+      "postalCode": "WI 53706",
+      "city": "Madison",
       "countryCode": "US",
-      "region": "California"
+      "region": "Wisconsin"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of Wisconsin-Madison",
+      "position": "Research Assistant to Prof. Jean-Francois Houde",
+      "startDate": "2024-08-01"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "Bank of Canada",
+      "position": "External Academic Consultant",
+      "startDate": "2022-08-01"
+    },
+    {
+      "name": "Bank of Canada",
+      "position": "Analyst",
+      "startDate": "2021-07-01",
+      "endDate": "2022-08-01"
+    },
+    {
+      "name": "Bank of Canada",
+      "position": "Research Assistant",
+      "startDate": "2018-08-01",
+      "endDate": "2021-07-01"
+    },
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, WI",
+      "area": "Economics & Finance",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2022-08-01",
+    },
+    {
+      "institution": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "area": "Data Science",
+      "studyType": "MS",
+      "startDate": "2021-01-01",
+      "endDate": "2022-06-01",
+    },
+    {
+      "institution": "University of Toronto",
+      "location": "Toronto, ON",
+      "area": "Economics",
+      "studyType": "BA Hons.",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+    },
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Best Third Year Finance Research Paper Scholarship",
+      "date": "2025-03-01",
+      "awarder": "University of Wisconsin-Madison"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Juli Plant Grainger Summer Research Fellowship",
+      "date": "2024-01-01",
+      "addDate": "2025-01-01",
+      "awarder": "University of Wisconsin-Madison"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Doctoral Fellowship",
+      "date": "2022-01-01",
+      "endDate": "2026-01-01",
+      "awarder": "Social Sciences and Humanities Research Council"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Women in Economics Scholarship",
+      "date": "2020-01-01",
+      "awarder": "Bank of Canada"
     },
     {
-      "name": "Quantum Communication",
+      "title": "Best Undergraduate Paper",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "awarder": "Canadian Economics Association"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "President's Scholar Program Scholarship",
+      "date": "2017-01-01",
+      "awarder": "University of Toronto"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": ". Adverse Selection and Learning in Consumer Credit Market",
+      "publisher": "Working Paper",
+      "releaseDate": "2025-11-01",
+      "summary": "This paper highlights a trade-off in credit markets between regulatory safeguards for informed consent and the informational frictions they can amplify. We find that requiring banks to garner explicit consent prior to raising clients' credit limits induces disproportionately higher take-up among riskier borrowers, worsening the risk profile of accounts receiving limit increases relative to the pre-policy regime. In response, we find banks decreased the size of the average credit limit increase and simultaneously gave more frequent limit increases. We develop a precautionary savings model with endogenous credit limits to study the role of learning and adverse selection in markets with incomplete information. We show that learning from acceptance decisions can rationalize our empirical results. Our model suggests that requiring consumer consent reduced lender profits but had negligible effects for consumers. Our key counterfactual demonstrates that lowering lender patience while requiring consumer consent would decrease both the frequency and size of limit increases."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Coding",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python", 
+        "Julia", 
+        "Stata", 
+        "Matlab", 
+        "R", 
+        "HTML/CSS"
+      ]
+    },
+    {
+      "name": "Computing",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Azure", 
+        "AWS", 
+        "Slurm-based HPCs"
+      ]
+    },
+    {
+      "name": "Data",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Web-scraping", 
+        "Modeling",
+        "Simulation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Native",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Mandarin",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "French",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "German",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
