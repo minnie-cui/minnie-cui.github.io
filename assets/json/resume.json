@@ -100,8 +100,7 @@
     {
       "name": "Adverse Selection and Learning in Consumer Credit Market",
       "publisher": "Working Paper",
-      "releaseDate": "2025-11-01",
-      "summary": "This paper highlights a trade-off in credit markets between regulatory safeguards for informed consent and the informational frictions they can amplify. We find that requiring banks to garner explicit consent prior to raising clients' credit limits induces disproportionately higher take-up among riskier borrowers, worsening the risk profile of accounts receiving limit increases relative to the pre-policy regime. In response, we find banks decreased the size of the average credit limit increase and simultaneously gave more frequent limit increases. We develop a precautionary savings model with endogenous credit limits to study the role of learning and adverse selection in markets with incomplete information. We show that learning from acceptance decisions can rationalize our empirical results. Our model suggests that requiring consumer consent reduced lender profits but had negligible effects for consumers. Our key counterfactual demonstrates that lowering lender patience while requiring consumer consent would decrease both the frequency and size of limit increases."
+      "releaseDate": "2025-11-01"
     }
   ],
   "skills": [
