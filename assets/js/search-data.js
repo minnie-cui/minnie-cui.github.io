@@ -72,8 +72,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-received-the-boc-master-s-scholarship-for-women-in-economics",
           title: 'I received the BoC Master’s Scholarship for Women in Economics!',
           description: "",
-          section: "News",},{id: "news-i-m-proud-to-announce-i-will-be-a-recipient-of-the-sshrc-doctoral-fellowship",
-          title: 'I’m proud to announce I will be a recipient of the SSHRC Doctoral...',
+          section: "News",},{id: "news-i-m-proud-to-announce-that-i-will-be-a-recipient-of-the-sshrc-doctoral-fellowship",
+          title: 'I’m proud to announce that I will be a recipient of the SSHRC...',
           description: "",
           section: "News",},{
         id: 'social-cv',
