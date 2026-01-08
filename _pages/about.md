@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>PhD in Economics & Finance</b> @ UW-Madison // Tea enthusiast
+subtitle: <b>PhD in Economics & Finance</b> @ University of Wisconsin-Madison // Tea enthusiast
 
 profile:
   align: right
