@@ -31,6 +31,6 @@ Welcome! :wave:
 
 I am a student in the Joint PhD Program in Economics and Finance at the University of Wisconsin-Madison. My research interests are in Industrial Organization, Household Finance, and Financial Intermediation. I am a SSHRC Doctoral Fellow and a Bank of Canada External Academic Consultant. Previously, I worked as an Analyst at the Bank of Canada. I graduated from the University of Toronto in 2018 with an Honours Bachelor of Arts in Economics and from the University of Texas at Austin with a Master of Science in Data Science.
 
-I am currently reading *Empire of Pain: The Secret History of the Sackler Dynasty* by Patrick Radden Keefe, and I am always looking for good book recommendations.
+I am currently reading *On the Edge* by Nate Silver, and I am always looking for good book recommendations.
 
 For a look at my cat children, Ruth Bader Ginspurrg and Alan Purring, <a href="https://minnie-cui.github.io/assets/img/ruth_and_alan.JPG" target="_blank">click here</a>!
