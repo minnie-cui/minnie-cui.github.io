@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "publications in reversed chronological order",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "dropdown-canadian-daily-climate",
               title: "Canadian Daily Climate",
               description: "",
