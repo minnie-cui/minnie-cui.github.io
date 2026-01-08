@@ -9,9 +9,9 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>minnie.cui@wisc.edu</p>
-    <p>1180 Observatory Dr</p>
-    <p>Madison, WI 53706</p>
+    minnie.cui@wisc.edu
+    1180 Observatory Dr
+    Madison, WI 53706
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
