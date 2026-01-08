@@ -18,22 +18,26 @@
     {
       "name": "University of Wisconsin-Madison",
       "position": "Research Assistant to Prof. Jean-Francois Houde",
+      "url": "",
       "startDate": "2024-08-01"
     },
     {
       "name": "Bank of Canada",
       "position": "External Academic Consultant",
+      "url": "",
       "startDate": "2022-08-01"
     },
     {
       "name": "Bank of Canada",
       "position": "Analyst",
+      "url": "",
       "startDate": "2021-07-01",
       "endDate": "2022-08-01"
     },
     {
       "name": "Bank of Canada",
       "position": "Research Assistant",
+      "url": "",
       "startDate": "2018-08-01",
       "endDate": "2021-07-01"
     }
@@ -44,6 +48,7 @@
       "location": "Madison, WI",
       "area": "Economics & Finance",
       "studyType": "PhD",
+      "url": "",
       "startDate": "2022-08-01"
     },
     {
@@ -51,6 +56,7 @@
       "location": "Austin, TX",
       "area": "Data Science",
       "studyType": "MS",
+      "url": "",
       "startDate": "2021-01-01",
       "endDate": "2022-06-01"
     },
@@ -59,6 +65,7 @@
       "location": "Toronto, ON",
       "area": "Economics",
       "studyType": "BA Hons.",
+      "url": "",
       "startDate": "2014-09-01",
       "endDate": "2018-06-01"
     }
@@ -67,33 +74,39 @@
     {
       "title": "Best Third Year Finance Research Paper Scholarship",
       "date": "2025-03-01",
+      "url": "",
       "awarder": "University of Wisconsin-Madison"
     },
     {
       "title": "Juli Plant Grainger Summer Research Fellowship",
       "date": "2024-01-01",
       "addDate": "2025-01-01",
+      "url": "",
       "awarder": "University of Wisconsin-Madison"
     },
     {
       "title": "Doctoral Fellowship",
       "date": "2022-01-01",
       "endDate": "2026-01-01",
+      "url": "",
       "awarder": "Social Sciences and Humanities Research Council"
     },
     {
       "title": "Women in Economics Scholarship",
       "date": "2020-01-01",
+      "url": "",
       "awarder": "Bank of Canada"
     },
     {
       "title": "Best Undergraduate Paper",
       "date": "2018-01-01",
+      "url": "",
       "awarder": "Canadian Economics Association"
     },
     {
       "title": "President's Scholar Program Scholarship",
       "date": "2017-01-01",
+      "url": "",
       "awarder": "University of Toronto"
     }
   ],
