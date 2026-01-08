@@ -36,7 +36,7 @@
       "position": "Research Assistant",
       "startDate": "2018-08-01",
       "endDate": "2021-07-01"
-    },
+    }
   ],
   "education": [
     {
@@ -44,7 +44,7 @@
       "location": "Madison, WI",
       "area": "Economics & Finance",
       "studyType": "PhD",
-      "startDate": "2022-08-01",
+      "startDate": "2022-08-01"
     },
     {
       "institution": "University of Texas at Austin",
@@ -52,7 +52,7 @@
       "area": "Data Science",
       "studyType": "MS",
       "startDate": "2021-01-01",
-      "endDate": "2022-06-01",
+      "endDate": "2022-06-01"
     },
     {
       "institution": "University of Toronto",
@@ -60,8 +60,8 @@
       "area": "Economics",
       "studyType": "BA Hons.",
       "startDate": "2014-09-01",
-      "endDate": "2018-06-01",
-    },
+      "endDate": "2018-06-01"
+    }
   ],
   "awards": [
     {
@@ -108,32 +108,17 @@
     {
       "name": "Coding",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python", 
-        "Julia", 
-        "Stata", 
-        "Matlab", 
-        "R", 
-        "HTML/CSS"
-      ]
+      "keywords": ["Python", "Julia", "Stata", "Matlab", "R", "HTML/CSS"]
     },
     {
       "name": "Computing",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Azure", 
-        "AWS", 
-        "Slurm-based HPCs"
-      ]
+      "keywords": ["Azure", "AWS", "Slurm-based HPCs"]
     },
     {
       "name": "Data",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Web-scraping", 
-        "Modeling",
-        "Simulation"
-      ]
+      "keywords": ["Web-scraping", "Modeling", "Simulation"]
     }
   ],
   "languages": [
@@ -157,5 +142,5 @@
       "fluency": "Beginner",
       "icon": ""
     }
-  ],
+  ]
 }
