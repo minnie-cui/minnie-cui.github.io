@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-received-the-canadian-economics-association-best-undergraduate-paper-award",
+            },},{id: "news-i-received-the-canadian-economics-association-best-undergraduate-paper-award",
           title: 'I received the Canadian Economics Association Best Undergraduate Paper Award!',
           description: "",
           section: "News",},{id: "news-i-received-the-boc-master-s-scholarship-for-women-in-economics",
