@@ -23,26 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-canadian-daily-climate",
+              title: "Canadian Daily Climate",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "https://github.com/minnzc/Canada_Daily_Climate";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-canada-covid-19-dashboard",
+              title: "Canada COVID-19 Dashboard",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "https://mhcui.shinyapps.io/Canada_COVID/";
               },
             },{id: "post-a-post-with-plotly-js",
         
