@@ -4,7 +4,7 @@
     - name: Full Name
       value: Minnie Cui
     - name: Languages
-      value: English, Mandarin, French German
+      value: English, Mandarin, French, German
 
 - title: Education
   type: time_table
@@ -41,6 +41,9 @@
 - title: Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Georgia Tech–Atlanta Fed Household Finance Conference Young Scholars Best Paper
     - year: 2025
       items:
         - University of Wisconsin-Madison Best Third Year Finance Research Paper Scholarship
