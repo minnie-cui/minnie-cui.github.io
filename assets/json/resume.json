@@ -18,19 +18,19 @@
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI",
+      "area": "Joint Economics & Finance",
+      "studyType": "PhD",
+      "url": "",
+      "startDate": "2022-09-01"
+    },
+    {
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, WI",
       "area": "Economics",
       "studyType": "MS",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2024-06-01"
-    },
-    {
-      "institution": "University of Wisconsin-Madison",
-      "location": "Madison, WI",
-      "area": "Joint Economics & Finance",
-      "studyType": "PhD",
-      "url": "",
-      "startDate": "2022-08-01"
     },
     {
       "institution": "University of Texas at Austin",
