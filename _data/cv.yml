@@ -9,9 +9,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Economics & Finance
+    - title: PhD, Joint Economics & Finance
       institution: University of Wisconsin-Madison
       year: 2022-Pres.
+    - title: MS, Economics
+      institution: University of Wisconsin-Madison
+      year: 2022-2024
     - title: MS, Data Science
       institution: University of Texas at Austin
       year: 2021-2022
